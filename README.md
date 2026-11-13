@@ -1,9 +1,4 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:15112E,55:7B2FF7,100:3DE8EC&section=header&text=Nelson&fontSize=80&fontColor=F3F0FF&fontAlignY=36&desc=Infraestructura%20y%20backends%20para%20DeFi%20en%20Solana&descSize=18&descAlignY=58&animation=fadeIn" />
-  <img alt="Nelson, infraestructura y backends para DeFi en Solana" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F4F1FF,55:B47BFF,100:3DE8EC&section=header&text=Nelson&fontSize=80&fontColor=1B1640&fontAlignY=36&desc=Infraestructura%20y%20backends%20para%20DeFi%20en%20Solana&descSize=18&descAlignY=58&animation=fadeIn" />
-</picture>
-
 <a href="https://github.com/nelson-cz">
   <img alt="Líneas rotativas: infra y backend en CZLabs, nodos RPC, WebSocket y gRPC sobre Solana" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=7B2FF7&center=true&vCenter=true&width=620&lines=Infra+y+backend+en+CZLabs;Nodos+RPC%2C+WebSocket+y+gRPC+sobre+Solana;Docker%2C+CI%2FCD%2C+observabilidad+y+hardening;Aprendiendo+Rust;Desde+Guatemala+(UTC-6)" />
 </a>
@@ -69,16 +64,6 @@ Somos un laboratorio de desarrollo Web3 que diseña, construye y opera productos
 ## Actividad
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nelson-cz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=es&bg_color=15112E&title_color=B47BFF&icon_color=3DE8EC&text_color=F3F0FF&ring_color=B47BFF" />
-  <img height="170"  src="https://github-readme-stats.vercel.app/api?username=nelson-cz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=es&bg_color=F4F1FF&title_color=7B2FF7&icon_color=008EA6&text_color=1B1640&ring_color=7B2FF7" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-cz&layout=compact&langs_count=8&hide_border=true&locale=es&bg_color=15112E&title_color=B47BFF&text_color=F3F0FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-cz&layout=compact&langs_count=8&hide_border=true&locale=es&bg_color=F4F1FF&title_color=7B2FF7&text_color=1B1640" />
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nelson-cz&locale=es&hide_border=true&background=15112E&stroke=2F2860&ring=B47BFF&fire=FF6B8A&currStreakNum=F3F0FF&sideNums=F3F0FF&currStreakLabel=3DE8EC&sideLabels=A49DCC&dates=A49DCC" />
   <img  src="https://streak-stats.demolab.com?user=nelson-cz&locale=es&hide_border=true&background=F4F1FF&stroke=DCD5F5&ring=7B2FF7&fire=E0335A&currStreakNum=1B1640&sideNums=1B1640&currStreakLabel=008EA6&sideLabels=5D5780&dates=5D5780" />
