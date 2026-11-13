@@ -25,7 +25,7 @@ nelson@parrot:~$ whoami
 infra + backend @ czlabs
 
 nelson@parrot:~$ cat ahora.txt
-construyendo un sistema de heatmaps y analítica de producto
+monitoreando sistemas y analíticas de productos
 
 nelson@parrot:~$ cat aprendiendo.txt
 rust, ciberseguridad, seo técnico
