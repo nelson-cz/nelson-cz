@@ -1,4 +1,10 @@
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nelson-cz/nelson-cz/main/assets/header-dark.svg" />
+  <img width="100%" alt="Nelson. Infraestructura y backends para DeFi en Solana. Ingeniero de infraestructura en CZLabs." src="https://raw.githubusercontent.com/nelson-cz/nelson-cz/main/assets/header-light.svg" />
+</picture>
+
 <a href="https://github.com/nelson-cz">
   <img alt="Líneas rotativas: infra y backend en CZLabs, nodos RPC, WebSocket y gRPC sobre Solana" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=7B2FF7&center=true&vCenter=true&width=620&lines=Infra+y+backend+en+CZLabs;Nodos+RPC%2C+WebSocket+y+gRPC+sobre+Solana;Docker%2C+CI%2FCD%2C+observabilidad+y+hardening;Aprendiendo+Rust;Desde+Guatemala+(UTC-6)" />
 </a>
@@ -59,24 +65,23 @@ Somos un laboratorio de desarrollo Web3 que diseña, construye y opera productos
 | 🟡 **Datos y observabilidad** | ![MongoDB](https://img.shields.io/badge/MongoDB-15112E?style=flat-square&logo=mongodb&logoColor=FFD23F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15112E?style=flat-square&logo=postgresql&logoColor=FFD23F) ![Redis](https://img.shields.io/badge/Redis-15112E?style=flat-square&logo=redis&logoColor=FFD23F) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-15112E?style=flat-square&logo=rabbitmq&logoColor=FFD23F) ![Grafana](https://img.shields.io/badge/Grafana-15112E?style=flat-square&logo=grafana&logoColor=FFD23F) ![Prometheus](https://img.shields.io/badge/Prometheus-15112E?style=flat-square&logo=prometheus&logoColor=FFD23F) |
 | 🔴 **Seguridad** | ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15112E?style=flat-square&logo=parrotsecurity&logoColor=FF6B8A) ![nftables](https://img.shields.io/badge/nftables-15112E?style=flat-square&logo=linux&logoColor=FF6B8A) ![WireGuard](https://img.shields.io/badge/WireGuard-15112E?style=flat-square&logo=wireguard&logoColor=FF6B8A) ![TryHackMe](https://img.shields.io/badge/TryHackMe-15112E?style=flat-square&logo=tryhackme&logoColor=FF6B8A) |
 
-
-
 ## Actividad
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nelson-cz&locale=es&hide_border=true&background=15112E&stroke=2F2860&ring=B47BFF&fire=FF6B8A&currStreakNum=F3F0FF&sideNums=F3F0FF&currStreakLabel=3DE8EC&sideLabels=A49DCC&dates=A49DCC" />
-  <img  src="https://streak-stats.demolab.com?user=nelson-cz&locale=es&hide_border=true&background=F4F1FF&stroke=DCD5F5&ring=7B2FF7&fire=E0335A&currStreakNum=1B1640&sideNums=1B1640&currStreakLabel=008EA6&sideLabels=5D5780&dates=5D5780" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/stats-dark.svg" />
+  <img width="100%" alt="Estadísticas de los últimos 12 meses y lenguajes por commits" src="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/stats-light.svg" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nelson-cz&hide_border=true&area=true&bg_color=15112E&color=A49DCC&line=B47BFF&point=3DE8EC&area_color=7B2FF7&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas" />
-  <img width="100%"  src="https://github-readme-activity-graph.vercel.app/graph?username=nelson-cz&hide_border=true&area=true&bg_color=F4F1FF&color=5D5780&line=7B2FF7&point=008EA6&area_color=B47BFF&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/activity-dark.svg" />
+  <img width="100%" alt="Gráfico de contribuciones de los últimos 31 días" src="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/activity-light.svg" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/github-snake-dark.svg" />
-  <img  src="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/github-snake.svg" />
+  <img width="100%" alt="Serpiente recorriendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/github-snake.svg" />
 </picture>
 
 </div>
