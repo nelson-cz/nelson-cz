@@ -1,0 +1,37 @@
+name: Snake de contribuciones
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"   # dos veces al día
+  workflow_dispatch:           # ejecución manual (úsala la primera vez)
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generar SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=#7B2FF7&color_dots=#EBE6FA,#D6C8FA,#B9A1F7,#9468F2,#008EA6
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#B47BFF&color_dots=#1E1940,#3A2F7A,#5B47B8,#8A6CF0,#3DE8EC
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: actualizar serpiente"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
