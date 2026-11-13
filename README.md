@@ -1,5 +1,4 @@
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:15112E,55:7B2FF7,100:3DE8EC&section=header&text=Nelson&fontSize=80&fontColor=F3F0FF&fontAlignY=36&desc=Infraestructura%20y%20backends%20para%20DeFi%20en%20Solana&descSize=18&descAlignY=58&animation=fadeIn" />
   <img alt="Nelson, infraestructura y backends para DeFi en Solana" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F4F1FF,55:B47BFF,100:3DE8EC&section=header&text=Nelson&fontSize=80&fontColor=1B1640&fontAlignY=36&desc=Infraestructura%20y%20backends%20para%20DeFi%20en%20Solana&descSize=18&descAlignY=58&animation=fadeIn" />
@@ -73,26 +72,26 @@ Somos un laboratorio de desarrollo Web3 que diseña, construye y opera productos
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nelson-cz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=es&bg_color=15112E&title_color=B47BFF&icon_color=3DE8EC&text_color=F3F0FF&ring_color=B47BFF" />
-  <img height="170" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=nelson-cz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=es&bg_color=F4F1FF&title_color=7B2FF7&icon_color=008EA6&text_color=1B1640&ring_color=7B2FF7" />
+  <img height="170"  src="https://github-readme-stats.vercel.app/api?username=nelson-cz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=es&bg_color=F4F1FF&title_color=7B2FF7&icon_color=008EA6&text_color=1B1640&ring_color=7B2FF7" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-cz&layout=compact&langs_count=8&hide_border=true&locale=es&bg_color=15112E&title_color=B47BFF&text_color=F3F0FF" />
-  <img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-cz&layout=compact&langs_count=8&hide_border=true&locale=es&bg_color=F4F1FF&title_color=7B2FF7&text_color=1B1640" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-cz&layout=compact&langs_count=8&hide_border=true&locale=es&bg_color=F4F1FF&title_color=7B2FF7&text_color=1B1640" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nelson-cz&locale=es&hide_border=true&background=15112E&stroke=2F2860&ring=B47BFF&fire=FF6B8A&currStreakNum=F3F0FF&sideNums=F3F0FF&currStreakLabel=3DE8EC&sideLabels=A49DCC&dates=A49DCC" />
-  <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=nelson-cz&locale=es&hide_border=true&background=F4F1FF&stroke=DCD5F5&ring=7B2FF7&fire=E0335A&currStreakNum=1B1640&sideNums=1B1640&currStreakLabel=008EA6&sideLabels=5D5780&dates=5D5780" />
+  <img  src="https://streak-stats.demolab.com?user=nelson-cz&locale=es&hide_border=true&background=F4F1FF&stroke=DCD5F5&ring=7B2FF7&fire=E0335A&currStreakNum=1B1640&sideNums=1B1640&currStreakLabel=008EA6&sideLabels=5D5780&dates=5D5780" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nelson-cz&hide_border=true&area=true&bg_color=15112E&color=A49DCC&line=B47BFF&point=3DE8EC&area_color=7B2FF7&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas" />
-  <img width="100%" alt="Gráfico de contribuciones de los últimos 31 días" src="https://github-readme-activity-graph.vercel.app/graph?username=nelson-cz&hide_border=true&area=true&bg_color=F4F1FF&color=5D5780&line=7B2FF7&point=008EA6&area_color=B47BFF&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas" />
+  <img width="100%"  src="https://github-readme-activity-graph.vercel.app/graph?username=nelson-cz&hide_border=true&area=true&bg_color=F4F1FF&color=5D5780&line=7B2FF7&point=008EA6&area_color=B47BFF&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/github-snake-dark.svg" />
-  <img alt="Serpiente recorriendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/github-snake.svg" />
+  <img  src="https://raw.githubusercontent.com/nelson-cz/nelson-cz/output/github-snake.svg" />
 </picture>
 
 </div>
