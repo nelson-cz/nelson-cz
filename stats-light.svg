@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Últimos 12 meses: 798 contribuciones, 702 commits, 58 pull requests, 45 repositorios, racha actual de 5 días.">
+<rect x="1" y="1" width="1198" height="358" rx="28" fill="#F4F1FF" stroke="#DCD5F5" stroke-width="2"/>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="48" y="70" font-size="24" font-weight="700" fill="#1B1640">Últimos 12 meses</text>
+<text x="48" y="160" font-size="46" font-weight="800" fill="#7B2FF7">798</text>
+<text x="48" y="188" font-size="16" fill="#5D5780">contribuciones</text>
+<text x="248" y="160" font-size="46" font-weight="800" fill="#7B2FF7">702</text>
+<text x="248" y="188" font-size="16" fill="#5D5780">commits</text>
+<text x="448" y="160" font-size="46" font-weight="800" fill="#008EA6">58</text>
+<text x="448" y="188" font-size="16" fill="#5D5780">pull requests</text>
+<text x="48" y="272" font-size="46" font-weight="800" fill="#008EA6">45</text>
+<text x="48" y="300" font-size="16" fill="#5D5780">repositorios</text>
+<text x="248" y="272" font-size="46" font-weight="800" fill="#E0335A">5</text>
+<text x="248" y="300" font-size="16" fill="#5D5780">días de racha actual</text>
+<text x="448" y="272" font-size="46" font-weight="800" fill="#B98500">8</text>
+<text x="448" y="300" font-size="16" fill="#5D5780">días de racha máxima</text>
+<line x1="664" y1="44" x2="664" y2="316" stroke="#DCD5F5" stroke-width="2"/>
+<text x="708" y="70" font-size="24" font-weight="700" fill="#1B1640">Lenguajes por commits</text>
+<clipPath id="bar"><rect x="708" y="104" width="444" height="16" rx="8"/></clipPath>
+<g clip-path="url(#bar)"><rect x="708.0" y="104" width="173.2" height="16" fill="#7B2FF7"/><rect x="881.2" y="104" width="146.4" height="16" fill="#008EA6"/><rect x="1027.6" y="104" width="44.4" height="16" fill="#E0335A"/><rect x="1072.0" y="104" width="32.6" height="16" fill="#B98500"/><rect x="1104.6" y="104" width="29.8" height="16" fill="#9A8FD6"/><rect x="1134.4" y="104" width="17.6" height="16" fill="#C4BCEB"/></g>
+<circle cx="714" cy="162" r="6" fill="#7B2FF7"/>
+<text x="730" y="168" font-size="17" fill="#1B1640">JavaScript</text>
+<text x="916" y="168" font-size="17" fill="#5D5780" text-anchor="end">39.0%</text>
+<circle cx="950" cy="162" r="6" fill="#008EA6"/>
+<text x="966" y="168" font-size="17" fill="#1B1640">TypeScript</text>
+<text x="1152" y="168" font-size="17" fill="#5D5780" text-anchor="end">33.0%</text>
+<circle cx="714" cy="208" r="6" fill="#E0335A"/>
+<text x="730" y="214" font-size="17" fill="#1B1640">Rust</text>
+<text x="916" y="214" font-size="17" fill="#5D5780" text-anchor="end">10.0%</text>
+<circle cx="950" cy="208" r="6" fill="#B98500"/>
+<text x="966" y="214" font-size="17" fill="#1B1640">HTML</text>
+<text x="1152" y="214" font-size="17" fill="#5D5780" text-anchor="end">7.3%</text>
+<circle cx="714" cy="254" r="6" fill="#9A8FD6"/>
+<text x="730" y="260" font-size="17" fill="#1B1640">CSS</text>
+<text x="916" y="260" font-size="17" fill="#5D5780" text-anchor="end">6.7%</text>
+<circle cx="950" cy="254" r="6" fill="#C4BCEB"/>
+<text x="966" y="260" font-size="17" fill="#1B1640">Otros</text>
+<text x="1152" y="260" font-size="17" fill="#5D5780" text-anchor="end">4.0%</text>
+<text x="1152" y="332" font-size="13" fill="#5D5780" text-anchor="end">Incluye repositorios privados · actualizado 21 nov 2026</text>
+</g>
+</svg>
